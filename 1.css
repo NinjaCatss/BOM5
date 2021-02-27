@@ -1,0 +1,18 @@
+
+body {
+  background-image: url('https://www.mirf.ru/wp-content/uploads/2020/10/Made-in-Abyss-5-1024x576.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+p{
+  font-size: 150%;
+}
+h1{
+  color: white
+}
+h3{
+  color: white
+}
+p{
+  color: white
+}
